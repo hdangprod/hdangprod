@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 </div>
 <div align="center">
        <h2> Hi there, I'm Dang <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="26px" height="26px" /> </h2>
-</div>
-<h3>🗿 My activity </h3>
-<img src="https://activity-graph.herokuapp.com/graph?username=hdangnguyen&background=0D1116&theme=react-dark" />
 
-<img align="left center" src="https://github-readme-stats.vercel.app/api?username=hdangnguyen&bg_color=0D1116&theme=react" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=hdangnguyen&background=0D1116&theme=react" /> 
+<h3>🗿 My activity </h3>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=react&bg_color=0D1116&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hdangnguyen&background=0D1116&theme=react&hide_border=true" />
+<img src="https://activity-graph.herokuapp.com/graph?username=hdangnguyen&background=0D1116&theme=react-dark&hide_border=true" />
