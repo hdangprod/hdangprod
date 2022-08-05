@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 <h3>🗿 My activity </h3>
 
 
-| <a href="https://github.com/hdangnguyen/hdangnguyen/blob/main/README.md"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hdangnguyen&show_icons=true&include_all_commits=true&theme=react&bg_color=0D1116&hide_border=true" alt="hdangnguyen's github stats" /></a> | <a href="https://github.com/hdangnguyen/hdangnguyen/blob/main/README.md"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hdangnguyen&background=0D1116&theme=react&hide_border=true" /></a> |
+| <a href="https://github.com/hdangnguyen/hdangnguyen/blob/main/README.md"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hdangnguyen&show_icons=true&include_all_commits=true&theme=react&bg_color=ffffff00&hide_border=true" alt="hdangnguyen's github stats" /></a> | <a href="https://github.com/hdangnguyen/hdangnguyen/blob/main/README.md"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hdangnguyen&background=ffffff00&theme=react&hide_border=true" /></a> |
 | ------------- | ------------- |
-<img src="https://activity-graph.herokuapp.com/graph?username=hdangnguyen&background=0D1116&theme=react-dark&hide_border=true" />
+<img src="https://activity-graph.herokuapp.com/graph?username=hdangnguyen&background=ffffff00&theme=react-dark&hide_border=true" />
