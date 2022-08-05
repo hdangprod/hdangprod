@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hdangnguyen&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+       <h2> Hi there, I'm Dang <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="26px" height="26px" /> </h2>
+</div>
