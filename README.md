@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 <h3>🗿 My activity </h3>
 <img src="https://activity-graph.herokuapp.com/graph?username=hdangnguyen&theme=react-dark" />
 
+<img align="left center" src="https://github-readme-stats.vercel.app/api?username=hdangnguyen&bg_color=0D1116&theme=react" /> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hdangnguyen&bg_color=0D1116&theme=react&" /> 
