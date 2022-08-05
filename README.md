@@ -22,5 +22,7 @@ Here are some ideas to get you started:
 
 <h3>🗿 My activity </h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=react&bg_color=0D1116&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hdangnguyen&background=0D1116&theme=react&hide_border=true" />
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hdangnguyen&show_icons=true&include_all_commits=true&theme=react&bg_color=0D1116&hide_border=true" alt="hdangnguyen's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hdangnguyen&background=0D1116&theme=react&hide_border=true" /></a> |
+| ------------- | ------------- |
 <img src="https://activity-graph.herokuapp.com/graph?username=hdangnguyen&background=0D1116&theme=react-dark&hide_border=true" />
