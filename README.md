@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=hdangnguyen&bg_color=00000000&theme=react-dark" />
+
 -->
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="150"/> <br/>
@@ -32,5 +34,6 @@ Here are some ideas to get you started:
 
 | <a href="https://github.com/hdangnguyen/hdangnguyen/blob/main/README.md"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hdangnguyen&show_icons=true&include_all_commits=true&theme=react&bg_color=ffffff00&hide_border=true&text_color=B7B7B7" alt="hdangnguyen's github stats" /></a> | <a href="https://github.com/hdangnguyen/hdangnguyen/blob/main/README.md"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hdangnguyen&background=ffffff00&theme=react&hide_border=true&dates=B7B7B7" /></a> |
 | ------------- | ------------- |
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=hdangnguyen&bg_color=00000000&theme=react-dark" />
+
+[![hdangnguyen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hdangnguyen&bg_color=00000000&color=61dafb&line=61dafb&point=23afd1&area=true&hide_border=true&area_color=61dafbb3)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
